@@ -1,4 +1,4 @@
-# 🔐 Hướng dẫn đăng nhập lần đầu vào Microsoft 365
+# Hướng dẫn đăng nhập lần đầu vào Microsoft 365
 
 > **Dành cho:** Toàn thể CBNV trong hệ thống Tập đoàn Việt Mỹ . Group  sử dụng dịch vụ Microsoft 365
 > **Mục đích:** Giúp CBNV đăng nhập hệ thống, đổi mật khẩu và sẵn sàng sử dụng các dịch vụ của Microsoft 365 (Email, OneDrive, Teams...)  
