@@ -1,4 +1,4 @@
-# office365_guide
+# Hướng dẫn sử dụng dịch vụ Microsoft 365 (Basic)
 
 > **Bộ phận hỗ trợ:**
 - Bộ phận IT - Ban Hành chính Nhân sự
