@@ -8,11 +8,10 @@
 
 ## 🗓️ Bước 1: Mở lịch (Calendar)
 
-1. Đăng nhập vào [https://www.office.com](https://www.office.com)  
-2. Chọn biểu tượng **Teams** → sau đó chọn mục **Calendar** ở thanh bên trái  
-   *(hoặc mở trực tiếp ứng dụng Teams trên máy tính, chọn mục **Lịch**)*  
+1. Bạn đã đăng nhập dịch vụ Microsoft 365 thành công và đang ở dịch vụ nào đó (Outlooks, Sharepoint,...)
+2. Chọn mục **Calendar** ở thanh bên trái hoặc từ mục danh sách ứng dụng ở góc trên bên trái
 
-![Giao diện lịch trên Teams](./img/1.jpg)
+![Giao diện lịch trên Teams](./img/6.jpg)
 
 > 💡 *Mẹo nhỏ:* Nếu bạn đang ở Outlook Web, vẫn có thể tạo lịch họp Teams tương tự — chỉ khác giao diện một chút.
 
