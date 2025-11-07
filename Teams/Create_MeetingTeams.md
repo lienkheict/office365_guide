@@ -22,7 +22,7 @@
 1. Ở góc trên bên phải, chọn nút **New meeting (Cuộc họp mới)**  
 2. Một cửa sổ tạo cuộc họp sẽ xuất hiện.
 
-![Nút tạo cuộc họp mới](./img/2.jpg)
+![Nút tạo cuộc họp mới](/img/07.11.2025_2.jpg)
 
 ---
 
@@ -30,14 +30,15 @@
 
 Trong cửa sổ tạo cuộc họp, điền đầy đủ thông tin:
 
-| Trường | Nội dung cần nhập |
-|--------|------------------|
-| **Title (Tiêu đề)** | Tên cuộc họp (ví dụ: “Họp triển khai kế hoạch quý IV”) |
-| **Required attendees (Người tham dự)** | Nhập email các đồng nghiệp (có thể chọn nhiều người) |
-| **Date & Time (Thời gian)** | Chọn ngày và giờ bắt đầu – kết thúc |
-| **Description (Nội dung)** | Ghi chú, agenda, tài liệu cần chuẩn bị (nếu có) |
+1. Tiêu đề cuộc họp
+2. Người được mời họp có email tham dự. Nhằm có thông báo qua email cho người được mời biết thông tin
+3. Đánh dấu là cuộc họp trực tiếp Online qua Teams
+4. Thiết lập thời gian tham dự đồng thời có tùy chọn lặp lại hàng ngày (All day)
+5. Nội dung cuộc họp, bạn có thể viết nội dung cuộc họp vào bên trong mục này có thể thêm tệp tin đính kèm cho cuộc họp
+6. Thời gian họp có thể điều chỉnh được bằng kéo thả
+7. Chọn lưu lại hoặc gửi (nếu điền email người được mời) để tạo mới một cuộc họp
 
-![Cửa sổ tạo cuộc họp](./img/3.jpg)
+![Cửa sổ tạo cuộc họp](/img/07.11.2025_3.jpg)
 
 > 💬 *Bạn có thể bật tùy chọn “Repeat” nếu đây là cuộc họp định kỳ (ví dụ họp tuần).*
 
@@ -46,15 +47,15 @@ Trong cửa sổ tạo cuộc họp, điền đầy đủ thông tin:
 ## 📡 Bước 4: Kiểm tra đường link họp Teams
 
 Sau khi điền thông tin, Teams sẽ tự động tạo một **đường link họp trực tuyến**.  
-Link này nằm ngay trong phần mô tả của cuộc họp (thường có dạng):  
+Link này nằm ngay trong phần mô tả của cuộc họp gửi đính kèm email (thường có dạng):  
 
-Join Microsoft Teams Meeting
-https://teams.microsoft.com/l/meetup-join/
-...
 
-![Link họp trực tuyến tự sinh](./img/4.jpg)
+![Link họp trực tuyến tự sinh](/img/07.11.2025_4.jpg)
 
-Đây là link duy nhất cho cuộc họp. Bạn có thể sao chép để gửi qua email, tin nhắn nội bộ hoặc nhóm Teams.
+Đây là link duy nhất cho cuộc họp. Bạn có thể sao chép để gửi qua email, tin nhắn nội bộ hoặc nhóm Teams. 
+Ngoài ra trong lịch sự kiện bạn cũng có thể lấy link nhanh bằng cách chọn cuộc họp đó sau đó nhấn chọn copy link.
+
+![Link cuộc họp lấy nhanh](/img/07.11.2025_5.jpg)
 
 ---
 
@@ -64,7 +65,7 @@ https://teams.microsoft.com/l/meetup-join/
 - Hệ thống sẽ tự động gửi thư mời họp đến toàn bộ người tham dự  
 - Cuộc họp cũng sẽ xuất hiện trên **lịch (Calendar)** của bạn và người được mời
 
-![Lời mời họp được gửi qua Teams](./img/5.jpg)
+![Lời mời họp được gửi qua Teams](/img/07.11.2025_6.jpg)
 
 ---
 
@@ -75,9 +76,14 @@ Khi đến giờ họp, bạn chỉ cần:
 2. Chọn cuộc họp tương ứng  
 3. Nhấn **Join (Tham gia)**  
 
-![Nút tham gia cuộc họp](./img/6.jpg)
-
 Bạn cũng có thể tham gia trực tiếp từ email lời mời, chỉ cần nhấn vào dòng “Join Microsoft Teams Meeting”.
+
+Sau khi nhấn vào link bạn sẽ mở ra màn hình truy cập như hình bên dưới để tham gia cuộc họp
+
+![Nút tham gia cuộc họp](/img/07.11.2025_7.jpg)
+
+1. Với lựa chọn 1 là mở bằng ứng dụng Teams được cài đặt trên máy tính
+2. Với lựa chọn 2 là mở bằng trình duyệt để tham gia cuộc họp Teams mà không cần phải cài đặt ứng dụng
 
 ---
 
