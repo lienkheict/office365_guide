@@ -34,7 +34,7 @@ OneDrive hỗ trợ các hình thức chia sẻ sau:
 3. Đăng nhập tài khoản Microsoft 365
 4. Chọn **OneDrive**
 
-![Giao diện Office.com và OneDrive](img/Screenshot 2026-01-20 155115.jpg)
+![Giao diện Office.com và OneDrive](/img/20.01.2025_1.jpg)
 
 
 ---
@@ -44,7 +44,7 @@ OneDrive hỗ trợ các hình thức chia sẻ sau:
 - Mở **File Explorer**
 - Chọn **OneDrive – Tên tổ chức**
 
-![OneDrive trong File Explorer](img/Screenshot 2026-01-20 155247.jpg)
+![OneDrive trong File Explorer](/img/20.01.2025_2.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ OneDrive hỗ trợ các hình thức chia sẻ sau:
 - Chuột phải vào file
 - Chọn **Share**
 
-![Chuột phải file và chọn Share](img/Screenshot 2026-01-20 155415.jpg)
+![Chuột phải file và chọn Share](/img/20.01.2025_3.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ OneDrive hỗ trợ các hình thức chia sẻ sau:
   - `Can view`
   - `Can edit`
 
-![Cấu hình quyền chia sẻ](img/Screenshot 2026-01-20 155501.jpg)
+![Cấu hình quyền chia sẻ](/img/20.01.2025_4.jpg)
 
 ---
 
