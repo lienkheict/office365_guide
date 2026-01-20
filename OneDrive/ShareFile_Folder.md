@@ -22,7 +22,7 @@ OneDrive hỗ trợ các hình thức chia sẻ sau:
 - Quyền truy cập:
   - `View`: chỉ xem
   - `Edit`: được chỉnh sửa
-
+- Hình thức chia sẻ này có thể thực hiện được trực tiếp trên trình duyệt web hoặc có thể sử dụng trực tiếp trên nền duyệt file/thư mục trong của sổ Explorer trên Windows. Hai hình thức này tương tự như nhau không khác nhau về mặt hình thức chia sẻ thông thường
 ---
 
 ## 3. Truy cập OneDrive
@@ -32,10 +32,10 @@ OneDrive hỗ trợ các hình thức chia sẻ sau:
 1. Mở trình duyệt web
 2. Truy cập: https://www.office.com
 3. Đăng nhập tài khoản Microsoft 365
-4. Chọn **OneDrive**
+4. Chọn ứng dụng **OneDrive** trong danh sách các ứng dụng của Microsoft 365
 
 ![Giao diện Office.com và OneDrive](/img/20.01.2025_1.jpg)
-
+> ⬆️ Hình ảnh giao diện OneDrive trên nền trình duyệt website
 
 ---
 
@@ -45,14 +45,18 @@ OneDrive hỗ trợ các hình thức chia sẻ sau:
 - Chọn **OneDrive – Tên tổ chức**
 
 ![OneDrive trong File Explorer](/img/20.01.2025_2.jpg)
+> ⬆️ Hình ảnh giao diện OneDrive trong File Explorer
 
+> Chú ý: Để mở được OneDrive trên máy tính bạn bắt buộc phải sử dụng ứng dụng OneDrive trên máy tính sau đó chọn đăng nhập bằng tài khoản email được cung cấp.
+Sau khi đăng nhập thành công, nội dung toàn bộ các tệp tài liệu trong ứng dụng của bạn sẽ được hiển thị ở danh mục bên trái cửa sổ Explorer như hình bên trên
 ---
 
 ## 4. Chia sẻ một file trên OneDrive
+> Để chia sẻ một file trên OneDrive bạn hãy tiến hành thực hiện theo các bước như sau:
 
 ### Bước 1: Chọn file
 
-- Chuột phải vào file
+- Chuột phải vào file mà bạn cần chia sẻ. (Trường hợp chia sẻ nhiều file cùng một lúc tốt nhất là bạn nên tạo một thư mục sau đó chuyển toàn bộ các file cần chia sẻ để chia sẻ cho thuận tiện. Hình thức chia sẻ cũng được thực hiện tương tự như cách chia sẻ file này)
 - Chọn **Share**
 
 ![Chuột phải file và chọn Share](/img/20.01.2025_3.jpg)
@@ -61,10 +65,11 @@ OneDrive hỗ trợ các hình thức chia sẻ sau:
 
 ### Bước 2: Thiết lập quyền
 
-- Nhập email người nhận
-- Chọn quyền:
-  - `Can view`
-  - `Can edit`
+- Nhập email người nhận và ô địa chỉ email ở trên. Mỗi khi nhập email thành công sẽ nhấn Enter để chuyển sang email khác (nếu chia sẻ với nhiều email)
+- Chọn quyền (quyền mặc định hiện tại đang đặt là quyền view - quyền chỉ xem):
+  - `Can view` : Là quyền chỉ xem
+  - `Can edit`: Là quyền có thể chỉnh sửa
+  - `Can't download` : Là quyền có thể xem nhưng không hiển thị nút nhấn cho phép tải về (không được tải về)
 
 ![Cấu hình quyền chia sẻ](/img/20.01.2025_4.jpg)
 
@@ -72,16 +77,16 @@ OneDrive hỗ trợ các hình thức chia sẻ sau:
 
 ### Bước 3: Gửi chia sẻ
 
-- (Tuỳ chọn) Nhập nội dung tin nhắn
+- Nhập nội dung tin nhắn (Tùy chọn) đây là nội dung gửi kèm khi mà email được gửi đến người dùng được chia sẻ trong danh sách email nhân được, Bạn có thể ghi chú bất kỳ thông tin gì nhưng nên ghi chú nội dung chia sẻ là gì để người dùng biết được khi đó sẽ hữu ích hơn.
 - Nhấn **Send**
 
-Người nhận sẽ nhận được email chứa link truy cập file.
+Người nhận sẽ nhận được email chứa link truy cập file cùng nội dung tin nhắn chia sẻ.
 
 ---
 
 ## 5. Chia sẻ thư mục trên OneDrive
 
-> ⚠️ Khi chia sẻ thư mục, người nhận sẽ truy cập được **toàn bộ file bên trong**.
+> ⚠️ Khi chia sẻ thư mục, người nhận sẽ truy cập được **toàn bộ file bên trong** Bạn nên chú ý khi lựa chọn hình thức chia sẻ này để đảm bảo dữ liệu bạn chia sẻ được bảo mật, an toàn.
 
 ### Các bước thực hiện
 
@@ -116,12 +121,14 @@ Người nhận sẽ nhận được email chứa link truy cập file.
 ---
 
 ### 6.3 Cấu hình link chia sẻ
+> Đây là tùy chọn nâng cao cho phép người dùng có thêm các tùy chọn trong quá tình chia sẻ file/chia sẻ thư mục. Bạn có thể thực hiện bằng cách làm theo hướng dẫn bên dưới:
 
-Chọn biểu tượng **Settings (⚙️)**:
+Chọn biểu tượng **Settings (⚙️)** trong lúc hiển thị ô cửa sổ chia sẻ, khi đó bạn sẽ nhìn thấy màn hình chia sẻ như bên dưới:
 
-- Phạm vi:
-  - `People in your organization`
-  - `Anyone with the link` (nếu được phép)
+- Phạm vi chia sẻ:
+  - `People in your organization`: Mọi người trong công ty, chỉ trong công ty VMG và ARH không chia sẻ được ra bên ngoài
+  - `Anyone with the link` (nếu được phép): tất cả mọi người có đường link chia sẻ đều có thể xem được file/thư mục này, không cần đăng nhập vẫn có thể xem được
+  - `Only people with existing access` : Chia sẻ lại đối với những người đã được chia sẻ nhưng có thể họ quên, bạn chia sẻ để cho họ nhớ lại những gì mình đã chia sẻ
 - Quyền:
   - View
   - Edit
