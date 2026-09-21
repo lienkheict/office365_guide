@@ -16,6 +16,6 @@
 - [Quản lý - Duyệt đơn](AMIS_HRM_LD_DuyetDon.md)
 
 **3. Sử dụng dịch vụ Microsoft 365 - Tài khoản**
-- Đăng nhập hệ thống
+- Đăng nhập hệ thống. Tài khoản được bộ phận IT cung cấp khi tham gia Tập đoàn Việt Mỹ
 - Thay đổi thông tin cá nhân/thông tin đăng nhập
 - Quên mật khẩu: Liên hệ bộ phận IT để được cấp mới mật khẩu
