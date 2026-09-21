@@ -1,5 +1,11 @@
 # Theo dõi bảng chấm công hàng ngày
 
+*Liên kết hữu ích:*
+- [Cài đặt ứng dụng MISA AMIS](NV_UngDung.md)
+- [Nhân viên - Theo dõi bảng công cá nhân](NV_BangCong.md)
+- [Nhân viên - Đăng ký đơn từ](NV_DonTu.md)
+- [Nhân viên - Xác nhận công](NV_XacNhanCong.md)
+
 ### **1. Tổng quan**
 
 Bài viết hướng dẫn cách **theo dõi và kiểm tra dữ liệu chấm công hàng ngày trên AMIS Nhân viên (Web & Mobile)**, giúp nhân viên chủ động phát hiện sai sót và gửi đề nghị cập nhật công kịp thời, đảm bảo dữ liệu chấm công chính xác.
