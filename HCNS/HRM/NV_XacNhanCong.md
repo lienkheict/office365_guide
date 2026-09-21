@@ -1,5 +1,11 @@
 # Nhân viên xác nhận công, gửi đề nghị cập nhật công
 
+*Liên kết hữu ích:*
+- [Cài đặt ứng dụng MISA AMIS](NV_UngDung.md)
+- [Nhân viên - Theo dõi bảng công cá nhân](NV_BangCong.md)
+- [Nhân viên - Đăng ký đơn từ](NV_DonTu.md)
+- [Nhân viên - Xác nhận công](NV_XacNhanCong.md)
+
 ### **1. Tổng quan**
 
 Bài viết hướng dẫn tính năng **xác nhận công và gửi đề nghị cập nhật công** trên **AMIS Nhân viên,** giúp nhân viên kiểm tra bảng chấm công và kịp thời xử lý các sai sót nếu có.
