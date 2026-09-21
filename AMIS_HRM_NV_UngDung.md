@@ -1,10 +1,10 @@
 ## Cài đặt và đăng nhập ứng dụng MISA AMIS Mobile
 
 *Liên kết hữu ích:*
-- [Cài đặt ứng dụng MISA AMIS](NV_UngDung.md)
-- [Nhân viên - Theo dõi bảng công cá nhân](NV_BangCong.md)
-- [Nhân viên - Đăng ký đơn từ](NV_DonTu.md)
-- [Nhân viên - Xác nhận công](NV_XacNhanCong.md)
+- [Cài đặt ứng dụng MISA AMIS](AMIS_HRM_NV_UngDung.md)
+- [Nhân viên - Theo dõi bảng công cá nhân](AMIS_HRM_NV_BangCong.md)
+- [Nhân viên - Đăng ký đơn từ](AMIS_HRM_NV_DonTu.md)
+- [Nhân viên - Xác nhận công](AMIS_HRM_NV_XacNhanCong.md)
   
 #### **1. Cài đặt và đăng nhập**
 
