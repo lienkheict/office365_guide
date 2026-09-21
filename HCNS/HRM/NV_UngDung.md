@@ -1,5 +1,11 @@
 ## Cài đặt và đăng nhập ứng dụng MISA AMIS Mobile
 
+*Liên kết hữu ích:*
+- [Cài đặt ứng dụng MISA AMIS](NV_UngDung.md)
+- [Nhân viên - Theo dõi bảng công cá nhân](NV_BangCong.md)
+- [Nhân viên - Đăng ký đơn từ](NV_DonTu.md)
+- [Nhân viên - Xác nhận công](NV_XacNhanCong.md)
+  
 #### **1. Cài đặt và đăng nhập**
 
 **Bước 1:** Tải ứng dụng **MISA AMIS** trên **[Appstore](https://apps.apple.com/vn/app/misa-amis/id1521979495)** hoặc [**CHplay**.](https://play.google.com/store/apps/details?id=vn.com.misa.amis&hl=vi)
