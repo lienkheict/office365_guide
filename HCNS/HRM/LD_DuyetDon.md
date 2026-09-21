@@ -1,5 +1,11 @@
 # Quản lý duyệt đơn xin nghỉ của nhân viên
 
+*Liên kết hữu ích:*
+[Cài đặt ứng dụng MISA AMIS](NV_UngDung.md)
+[Nhân viên - Theo dõi bảng công cá nhân](NV_BangCong.md)
+[Nhân viên - Đăng ký đơn từ](NV_DonTu.md)
+[Nhân viên - Xác nhận công](NV_XacNhanCong.md)
+
 ### **1. Tổng quan**
 
 Bài viết hướng dẫn cách **quản lý phê duyệt đơn xin nghỉ trên AMIS Nhân viên (Web & Mobile)**, giúp HR có căn cứ chính xác để chấm công và đảm bảo quy trình duyệt đơn đúng theo quy định của doanh nghiệp.
