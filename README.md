@@ -5,7 +5,7 @@
 - Email: `admin@vietmy-group.com`
 - Điện thoại: `0356.235.145`
 
-**Hướng dẫn sử dụng dịch vụ MISA AMIS HRM**
+**1. Sử dụng dịch vụ MISA AMIS HRM**
 - [Cài đặt ứng dụng MISA AMIS](AMIS_HRM_NV_UngDung.md)
 - [Nhân viên - Theo dõi bảng công cá nhân](AMIS_HRM_NV_BangCong.md)
 - [Nhân viên - Đăng ký đơn từ](AMIS_HRM_NV_DonTu.md)
