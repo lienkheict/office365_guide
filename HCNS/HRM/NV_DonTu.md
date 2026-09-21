@@ -1,5 +1,11 @@
 ## Nhân viên lập các loại đơn (xin nghỉ, đi muộn về sớm, cập nhập công,..)
 
+*Liên kết hữu ích:*
+- [Cài đặt ứng dụng MISA AMIS](NV_UngDung.md)
+- [Nhân viên - Theo dõi bảng công cá nhân](NV_BangCong.md)
+- [Nhân viên - Đăng ký đơn từ](NV_DonTu.md)
+- [Nhân viên - Xác nhận công](NV_XacNhanCong.md)
+
 #### **1. Tổng quan**
 
 Bài viết hướng dẫn **cách lập các loại đơn chấm công trên AMIS Nhân viên**, giúp nhân viên **dễ dàng đăng ký các nhu cầu phát sinh trong công việc** như **nghỉ phép, đi muộn/về sớm, làm thêm giờ, công tác, cập nhật công hoặc đổi ca**. Hệ thống hỗ trợ xử lý toàn bộ quy trình từ **nhân viên lập đơn → quản lý phê duyệt → HR ghi nhận công vào bảng chấm công**. Bao gồm các loại đơn:
