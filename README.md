@@ -13,5 +13,5 @@
 - [Quản lý - Duyệt đơn](AMIS_HRM_LD_DuyetDon.md)
 
 **2. Danh sách email tập đoàn**
-- [Danh sách email tập đoàn]([AMIS_HRM_NV_UngDung.md](https://groupvietmy-my.sharepoint.com/:x:/g/personal/admin_vietmy-group_com/IQBM22Y_6ySZRrnHTc2CSvr7AWOsacFAV_q9XqBK6RJkE58?e=8OXrPp))
+- [Danh sách email tập đoàn](https://groupvietmy-my.sharepoint.com/:x:/g/personal/admin_vietmy-group_com/IQBM22Y_6ySZRrnHTc2CSvr7AWOsacFAV_q9XqBK6RJkE58?e=8OXrPp)
 
