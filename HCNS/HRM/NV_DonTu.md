@@ -72,5 +72,4 @@ Khi tạo đơn thực hiện chọn:
 -   **Người duyệt:** Là quản lý hoặc người có thẩm quyền trực tiếp xem xét, chấp thuận hoặc từ chối đơn xin nghỉ phép (ví dụ: Trưởng phòng, Quản lý trực tiếp, Trưởng bộ phận).
         
 -   **Người thay thế:** Là đồng nghiệp sẽ chịu trách nhiệm đảm nhận, xử lý các công việc dở dang hoặc công việc phát sinh của nhân viên trong khoảng thời gian nhân viên nghỉ phép.
-        
-    -   **Người liên quan:** Là những người cần nắm được thông tin nghỉ phép của nhân viên để phối hợp công việc (ví dụ: Nhân sự/CĐ, thành viên cùng nhóm, hoặc đối tác nội bộ liên quan), hệ thống sẽ gửi thông báo đến họ khi đơn được duyệt nhưng họ không có quyền duyệt đơn.
+-   **Người liên quan:** Là những người cần nắm được thông tin nghỉ phép của nhân viên để phối hợp công việc (ví dụ: Nhân sự/CĐ, thành viên cùng nhóm, hoặc đối tác nội bộ liên quan), hệ thống sẽ gửi thông báo đến họ khi đơn được duyệt nhưng họ không có quyền duyệt đơn.
